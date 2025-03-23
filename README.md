@@ -14,7 +14,8 @@ This project analyzes Amazon sales data to uncover key trends, customer behavior
 ## 📂 Project Files
 - **Amazon_Sales_Analysis_Report.pdf** - Comprehensive report detailing insights, visualizations, and recommendations.
 - **Amazon_Sales_Analysis.pbix** - Power BI file containing interactive dashboards.
-- **Amazon_Sales_Analysis.sql** - Sales dataset used for analysis (if applicable).
+- **Amazon_Sales_Analysis.sql** - SQL Query used for analysis.
+- **Amazon_Sales_Analysis.xlsx** - Sales dataset used for analysis.
 - **README.md** - This document.
 
 ## 🔍 Key Insights
